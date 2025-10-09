@@ -6,14 +6,19 @@
 4) далее вы скачиваете этот файл себе на комп по ссылке https://drive.google.com/file/d/1HzQRxSDSFoQrwgX0IjrNJNiaVyQVlw0f/view?usp=drive_link
 5) загружаем этот файл в колаб
    <img width="131" height="594" alt="image" src="https://github.com/user-attachments/assets/98044dd9-173b-483e-8508-e5e2bd6db85e" />
+   
 жмете на значок папки
 потом сюда
+
 <img width="141" height="154" alt="image" src="https://github.com/user-attachments/assets/611ce64a-efe1-402b-88fb-f2b2e24a0199" />
+
 и выбираете файл паф симп вейтс чета там
 7) далее мы ставим курсор на 1-ый блок после Выполянем)
    где импорт библиотек написано, нажмите курсором прям туда
    и нажмите ctrl+enter или значок(плей)  этот 
+   
    <img width="121" height="208" alt="image" src="https://github.com/user-attachments/assets/e82eda3e-d087-4f6f-b504-add6aae77465" />
+   
 8) далее загрузите вашу фотку в формате джипиджи также, как загружали файл в пункте 5.
 9) поставьте курсор на ячейку с beauty_output("ТВОЯ_ФОТКА.jpg") это следующая от 1, то есть вторая
 10) и вместо ТВОЯ_ФОТКА напишите имя вашей фотке в ветке колаба типа "arina2.jpg"
